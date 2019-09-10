@@ -1,4 +1,8 @@
 {
-  "username": "samsbsb",
-  "password": "samsbsb"
+  "credentials": [
+    {
+      "username": "samsbsb",
+      "password": "samsbsb"
+    }
+  ]
 }
